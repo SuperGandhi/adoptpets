@@ -1,0 +1,17 @@
+:root {
+    --bkg-red-rose: #b3494d;
+    --orange-lighter: #f59678;
+    --bkg-beige-color: #ffa50040;
+}
+
+#home-pg{
+    background-color: var(--bkg-beige-color);
+}
+
+#default-navbar{
+    background-color: var(--bkg-red-rose);
+}
+
+#default-navbar .nav-link, #default-navbar .nav-brand {
+    color: #fff;
+}
